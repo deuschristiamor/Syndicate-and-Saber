@@ -39,8 +39,8 @@ RemoveNotes:False
 OutlineNotes:True
 ShowMargins:False
 ShowLineNumbers:False
-Cursor/Line:1384
-Cursor/Column:14
+Cursor/Line:1536
+Cursor/Column:0
 String/MoreDialogue:(MORE)
 String/ContinuedPageEnd:(CONTINUED)
 String/ContinuedPageStart:CONTINUED:
@@ -1389,30 +1389,57 @@ Words:0
 >:It's simple. We fly outta here we
 .:get shot down.
 ._LIBERIUS
->:The Capitol City is still on the
->:other side of the planet. We could
-.:go by land.
+>:One of my clients is in the Capitol
+>:city. He could probably provide us
+.:a safe haven.
+._VORLO
+>:You're still working with him? I
+>:thought he would have forgotten
+.:about you by now.
+._LIBERIUS
+>:Well, the information I provide is
+.:crucial to the survival of...
+._VORLO
+.((mocking)
+>:...The Sovereign Planet's
+.:Union...of course.
+..Captain Vorlo rubs his face.
 ._VORLO
 .((amused)
->:How exactly do we leave here
-.:unseen?
+>:You do know the Capitol is a
+.:thousand sticks away?
 ._LIBERIUS
->:I know a smuggler. He
-.:transports...questionable goods.
+.:Jo' Vakka can take us there.
 ..Vorlo opens an eye.
 ._VORLO
-.:Questionable goods? Slaves?
+>:Jo' Vakka? When exactly did we
+.:downgrade to local herb smugglers?
 ._LIBERIUS
->:Yes. If we get Lara we can use her
->:to bargain our way through the
-.:smuggle route.
+>:You know, for not wanting to be
+.:here you seem quite reluctant.
 ..Vorlo stands up.
 ._VORLO
 .((smiling)
-.:I'm the heathen?
+>:I'm sorry...Forgive me for not
+>:wanting to put my fate in the hands
+.:of
+.((air quotes)
+.: "Jo' Vakka" the dope dealer.
+>.Liberius takes a deep breath and tries to rub the frusration
+..out of his face.
 ._LIBERIUS
->:The man in blue is always there. We
-.:can "ask" him a few questions.
+>:Would you rather be in the hands of
+.:the Syndicate?
+._VORLO
+.:No.
+._LIBERIUS
+>:By ourselves we won't get far but
+.:with Lara...
+..Vorlo rubs his chin. This could work.
+._LIBERIUS
+>:She is worth more than all the
+>:herbs on Minera. She could get us
+.:through the smuggle route.
 >.Vorlo thinks about the plan for a second. He's not into
 >.liberating for free but it sure beats sitting inside that
 ..ship. 
@@ -1427,7 +1454,7 @@ Words:0
 .:man in blue.
 .\INT. CORVESH CITY - corridor - UNDERGROUND
 >.The man in blue comes through a doorway with expensive
-..looking trinkets. 
+..looking trinkets...and two not so dicreetly armed guards.
 >.Farther down the corridor Captain Vorlo and Liberius are
 ..waiting for him trying to look inconspicious.
 >.The man in blue walks right past them. He's too good to
@@ -1440,20 +1467,22 @@ Words:0
 >.The man in blue comes through the door humming some posh
 >.melody as he nearly hovers gracefully towards a black
 >.beautifully waxed hover car...definetely from somewhere
-..else. 
-..Vorlo and Liberius are quickly behind him.
-._LIBERIUS
-.:Ey! Blue man!
->.The man in blue turns around and quickly waddles over to his
-..luxory car until...SLAP!
-..Liberius and Vorlo block him off from the door.
+..else.
+>.The two armed guards open the gull-winged door on the hover
+..car. 
+>.Vorlo and Liberius are taking cover behind the door weapons
+..drawn. Then suddenly...
+>.POW! POW! Two bolts come flying from their weapons and hit
+..the two guards. 
+>.The man in blue throws his hands up and waddles as fast as
+..he can to the car.
 ._MAN IN BLUE
 .:What on Minera do you want!
-..Liberius holds up his hands trying to be the good guy.
+>.Liberius and Vorlo are quickly behind him then block him off
+..from his hover car.
 ._LIBERIUS
->:Not you, Blue Man. Where is the
->:girl you paid two-hundred and fifty
-.:thousand for?
+>:Where is the girl you paid
+.:two-hundred and fifty thousand for?
 ._MAN IN BLUE
 .:I don't know what you're...
 >.POP! Captain Vorlo lunges a deep uppercut to Blue Man's gut.
@@ -1463,14 +1492,16 @@ Words:0
 >:Listen, fatts, We got places to be
 >:and don't have time for bush
 .:beating. Where's Lara?
-..Vorlo whips out his sidearm and points it at the pretty car. 
+>.Vorlo whips out his sidearm and points it at the man in
+..blue.
 ._MAN IN BLUE
-.:Okay! It's just a girl...
+.:It's just a girl...
 ._VORLO 
 .:...Yea our ticket outta here.
 >.Vorlo and Liberius pickup the posh man and put him in the
->.backseat of the car. The gull-wing door slams shut and Vorlo
-..grins at Liberius.
+>.backseat of the car while being careful to not trip over the
+..two dead guards.
+..The gull-wing door slams shut and Vorlo grins at Liberius.
 ._VORLO 
 .:That was easy. 
 .\INT. Corvesh city - luxory car - underground
@@ -1479,9 +1510,8 @@ Words:0
 ._Liberius
 .:Where to?
 ._MAN IN BLUE
->:I could tell you anything. I could
->:lead you into a trap and you
-.:wouldn't even know.
+>:I could lead you into a trap and
+.:you wouldn't even know.
 ..Vorlo slams on the breaks and looks back at the man in blue.
 ._VORLO 
 >:I thought we were done with all
@@ -1493,15 +1523,19 @@ Words:0
 ..defiant it's just a show.
 ._MAN IN BLUE
 .((sighing)
-.:She's in the Hacora district.
+.:Hacora district.
 ..Vorlo continues driving.
+._VORLO 
+>:If I see anything fishy you're the
+.:first one that's gonna go.
 ._MAN IN BLUE
->:That girl is like a fire. Amazing
-.:to see but painful if you touch.
+>:How much do you want? I'll give you
+>:ten girls and a hundred thousand
+.:ciphers.
 ..Liberius grumbles to himself.
 ._LIBERIUS
->:Have you seen yourself? You are
-.:painful to even look at. 
+>:Sorry, we're only accepting Laras'
+.:today. 
 .\int. Hacora district - blue man's property -  night
 >.Lara Sky leans looking out a tiny window of a plain looking
 >.room. Her eyes gaze at the large Syndicate ships hovering in
@@ -1519,17 +1553,16 @@ Words:0
 .:We're getting you out of here.
 ._Lara
 .((laughing cynically)
->:Oh really? Are you gonna sell me
->:back there for the seasonal
-.:special? 
+>:Oh really? You find another market
+.:to sell me in?
 ._Vorlo
 >:Kid, were trying to get off this
 .:rock...
 ._Lara
->:...Why would I listen to you two
-.:again?
+.:...Yea. Why?
 >.Suddenly Liberius gently pushes Vorlo out of the way and
-..enters the room then walks Lara back to the window. 
+..enters the room then walks Lara back to the window.
+..Now it's just them two and the breeze from the outside wind. 
 ._Liberius
 >:Lara, please forgive me for taking
 >:you away from the life you knew. I
@@ -1541,9 +1574,10 @@ Words:0
 .:What?
 ._Liberius
 >:For years I have been collecting
->:documents proving the genocidal
->:crimes that will ultimately spell
-.:the end of the Syndicate.
+>:documents for the SPU proving the
+>:genocidal crimes that will
+>:ultimately spell the end of the
+.:Syndicate.
 ._Lara
 .:Am I supposed to believe this?
 ._Liberius
@@ -1558,8 +1592,124 @@ Words:0
 .:Why?
 ..Liberius hands her the machinist book.
 ._Liberius
-.:He was Romaran   
+.:He was Romaran.
+..She kind of flinches at this news.
+._Lara
+.:Romaran? 
+._Liberius
+>:It's a galactic nation sitting far
+>:beyond the central systems. They've
+>:cut themselves off from the other
+.:worlds to protect their culture. 
+._Lara 
+>:How do you know this about
+.:Benjamin?
+>.Liberius opens the machinist book at points to numerous
+..scriblings throughout the pages. 
+._Liberius
+.:These are Romaran proverbs look.
+.((reading)
+>:"The balance of power between the
+>:man and the state is counted by the
+.:weight of arms." 
+..Liberius flips some more pages.
+._Liberius
+.:And here.
+.((reading)
+>:"The man who is free is he who is
+>:willing to forfeit comforts and
+.:bear the burden of patriotism."
+..Lara is lost thinking back her good friend Benjamin Tarlo.
+._Lara
+.:How do you know all this?
+>.Liberius looks into her eyes hoping he can shed the stench
+..of his former impression.
+._Liberius
+.:Because I am Romaran.
+>.Lara Sky contemplates this and glances at Captain Vorlo who
+..is waiting over by the door.
+._LARA
+.:Why come back for me?
+..Liberius inches closer to her.
+._LIBERIUS
+>:Because you are the only one who
+>:can get us through the smuggle
+>:route and reach the Capitol where I
+>:can deliver my intelligence to SPU
+>:agents...and where you can become
+>:the machinist you were mean't to
+.:be.
+>.Her heart flutters at the idea of being a machinist even
+..though she doesn't fully understand it. 
+._LARA
+>:So how do we get through the
+.:smuggle route?
+._LIBERIUS
+>:Well...by selling your love to
+>:gullible old men. My friend, you
+.:know not the power you have.
 ..
+..
+.\ext. CORVESH CITY - tavern district - night
+>.Dirty but less grimey than the underground markets Captain
+>.Vorlo, Liberius and Lara Sky stand near the entrance of the
+..Tavern district.
+>.A thousand lights all competing for the eye's attention.
+>.Distant music played with odd yet familiar sounding
+..instruments. 
+._VORLO
+>:Watch your step. No matter who
+>:controls this planet these places
+.:are always alive.
+.\Int. Corvesh city - tavern - night
+>.Our group of three caustiously strut through a dozen odd
+..looking characters. Humans, humanoids and...others.
+>.One weirdo, SPARKS, with a sideways mohawk bumps into Lara
+..as he goes by and almost hisses at her.
+._Sparks
+.:Watch it weirdo!
+..Vorlo puts his arm around Lara and keeps her moving. 
+.\INT. CORVESH CITY - TAVERN - bar - NIGHT
+>.Liberius and the others plop down in front of a bartender,
+..MUGGY, as he carefully fills a drink right up to the top.
+._LIBERIUS
+.:Muggy! How's business? 
+._Muggy
+.:Oh you know...
+.((knowing smirk)
+.:Good.
+._LIBERIUS
+.:You seen Jo lately?
+._MUGGY
+>:Ah he comes and goes. Never quite
+>:know what that walking blob is up
+.:to. 
+>.As they are talking Lara reaches for a little bowl of what
+..appear to be snacks. As she reaches Muggy looks at her.
+._MUGGY
+.((to Lara)
+.:You sure you wanna eat those?
+..Lara slowly pulls her hand back to herself.
+>.Vorlo pulls pieces of one out of his mouth and drops it on
+..the floor.
+._LIBERIUS
+>:He owes me a favor for helping him
+.:on his last shackle run. 
+._MUGGY
+>:Don't know what to tell ya. He
+>:ain't so..."open source" as he used
+>:to be especially with the Syndicate
+.:here.
+._VORLO
+>:He must have a contact here
+>:somewhere I mean look at these
+>:people. Good ole fashion scum and
+.:villainy. 
+._MUGGY
+>:Tovah over there I know works with
+>:his from time to time maybe he can
+.:tell you more.
+..Liberius nods and taps on the table as they all get up.
 ..
 ..
 ._
