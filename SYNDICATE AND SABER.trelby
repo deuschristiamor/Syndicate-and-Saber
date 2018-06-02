@@ -1,0 +1,1578 @@
+﻿#Version 3
+#Begin-Auto-Completion 
+AutoCompletion/Scene/Enabled:True
+AutoCompletion/Scene/Items:0
+AutoCompletion/Character/Enabled:True
+AutoCompletion/Character/Items:0
+AutoCompletion/Transition/Enabled:True
+AutoCompletion/Transition/Items:12
+AutoCompletion/Transition/Items/1:BACK TO:
+AutoCompletion/Transition/Items/2:CROSSFADE:
+AutoCompletion/Transition/Items/3:CUT TO:
+AutoCompletion/Transition/Items/4:DISSOLVE TO:
+AutoCompletion/Transition/Items/5:FADE IN:
+AutoCompletion/Transition/Items/6:FADE OUT
+AutoCompletion/Transition/Items/7:FADE TO BLACK
+AutoCompletion/Transition/Items/8:JUMP CUT TO:
+AutoCompletion/Transition/Items/9:MATCH CUT TO:
+AutoCompletion/Transition/Items/10:SLOW FADE TO BLACK
+AutoCompletion/Transition/Items/11:SMASH CUT TO:
+AutoCompletion/Transition/Items/12:TIME CUT:
+#End-Auto-Completion 
+#Begin-Config 
+FontSize:12
+Margin/Bottom:25.40
+Margin/Left:38.10
+Margin/Right:25.40
+Margin/Top:12.70
+Paper/Height:297.00
+Paper/Width:210.00
+PageBreakActionLines:2
+PageBreakDialogueLines:2
+SceneContinueds:False
+SceneContinuedIndent:45
+ShowSceneNumbers:False
+IncludeTOC:True
+ShowTOC:True
+OpenOnCurrentPage:True
+RemoveNotes:False
+OutlineNotes:True
+ShowMargins:False
+ShowLineNumbers:False
+Cursor/Line:1384
+Cursor/Column:14
+String/MoreDialogue:(MORE)
+String/ContinuedPageEnd:(CONTINUED)
+String/ContinuedPageStart:CONTINUED:
+String/DialogueContinued: (cont'd)
+Element/Scene/BeforeSpacing:10
+Element/Scene/IntraSpacing:0
+Element/Scene/Indent:0
+Element/Scene/Width:60
+Element/Scene/Screen/AllCaps:True
+Element/Scene/Screen/Bold:True
+Element/Scene/Screen/Italic:False
+Element/Scene/Screen/Underlined:False
+Element/Scene/Export/AllCaps:True
+Element/Scene/Export/Bold:False
+Element/Scene/Export/Italic:False
+Element/Scene/Export/Underlined:False
+Element/Action/BeforeSpacing:10
+Element/Action/IntraSpacing:0
+Element/Action/Indent:0
+Element/Action/Width:60
+Element/Action/Screen/AllCaps:False
+Element/Action/Screen/Bold:False
+Element/Action/Screen/Italic:False
+Element/Action/Screen/Underlined:False
+Element/Action/Export/AllCaps:False
+Element/Action/Export/Bold:False
+Element/Action/Export/Italic:False
+Element/Action/Export/Underlined:False
+Element/Character/BeforeSpacing:10
+Element/Character/IntraSpacing:0
+Element/Character/Indent:22
+Element/Character/Width:38
+Element/Character/Screen/AllCaps:True
+Element/Character/Screen/Bold:False
+Element/Character/Screen/Italic:False
+Element/Character/Screen/Underlined:False
+Element/Character/Export/AllCaps:True
+Element/Character/Export/Bold:False
+Element/Character/Export/Italic:False
+Element/Character/Export/Underlined:False
+Element/Dialogue/BeforeSpacing:0
+Element/Dialogue/IntraSpacing:0
+Element/Dialogue/Indent:10
+Element/Dialogue/Width:35
+Element/Dialogue/Screen/AllCaps:False
+Element/Dialogue/Screen/Bold:False
+Element/Dialogue/Screen/Italic:False
+Element/Dialogue/Screen/Underlined:False
+Element/Dialogue/Export/AllCaps:False
+Element/Dialogue/Export/Bold:False
+Element/Dialogue/Export/Italic:False
+Element/Dialogue/Export/Underlined:False
+Element/Parenthetical/BeforeSpacing:0
+Element/Parenthetical/IntraSpacing:0
+Element/Parenthetical/Indent:16
+Element/Parenthetical/Width:25
+Element/Parenthetical/Screen/AllCaps:False
+Element/Parenthetical/Screen/Bold:False
+Element/Parenthetical/Screen/Italic:False
+Element/Parenthetical/Screen/Underlined:False
+Element/Parenthetical/Export/AllCaps:False
+Element/Parenthetical/Export/Bold:False
+Element/Parenthetical/Export/Italic:False
+Element/Parenthetical/Export/Underlined:False
+Element/Transition/BeforeSpacing:10
+Element/Transition/IntraSpacing:0
+Element/Transition/Indent:45
+Element/Transition/Width:20
+Element/Transition/Screen/AllCaps:True
+Element/Transition/Screen/Bold:False
+Element/Transition/Screen/Italic:False
+Element/Transition/Screen/Underlined:False
+Element/Transition/Export/AllCaps:True
+Element/Transition/Export/Bold:False
+Element/Transition/Export/Italic:False
+Element/Transition/Export/Underlined:False
+Element/Shot/BeforeSpacing:10
+Element/Shot/IntraSpacing:0
+Element/Shot/Indent:0
+Element/Shot/Width:60
+Element/Shot/Screen/AllCaps:True
+Element/Shot/Screen/Bold:False
+Element/Shot/Screen/Italic:False
+Element/Shot/Screen/Underlined:False
+Element/Shot/Export/AllCaps:True
+Element/Shot/Export/Bold:False
+Element/Shot/Export/Italic:False
+Element/Shot/Export/Underlined:False
+Element/Note/BeforeSpacing:10
+Element/Note/IntraSpacing:0
+Element/Note/Indent:5
+Element/Note/Width:55
+Element/Note/Screen/AllCaps:False
+Element/Note/Screen/Bold:False
+Element/Note/Screen/Italic:True
+Element/Note/Screen/Underlined:False
+Element/Note/Export/AllCaps:False
+Element/Note/Export/Bold:False
+Element/Note/Export/Italic:True
+Element/Note/Export/Underlined:False
+Element/Act break/BeforeSpacing:10
+Element/Act break/IntraSpacing:0
+Element/Act break/Indent:25
+Element/Act break/Width:10
+Element/Act break/Screen/AllCaps:True
+Element/Act break/Screen/Bold:True
+Element/Act break/Screen/Italic:False
+Element/Act break/Screen/Underlined:True
+Element/Act break/Export/AllCaps:True
+Element/Act break/Export/Bold:False
+Element/Act break/Export/Italic:False
+Element/Act break/Export/Underlined:True
+Font/Bold-Italic/Name:
+Font/Bold-Italic/Filename:
+Font/Bold/Name:
+Font/Bold/Filename:
+Font/Italic/Name:
+Font/Italic/Filename:
+Font/Normal/Name:
+Font/Normal/Filename:
+#End-Config 
+#Begin-Locations 
+Locations:0
+#End-Locations 
+#Begin-Spell-Checker-Dict 
+Words:0
+#End-Spell-Checker-Dict 
+#Title-String 0.000000,105.000000,24,c,Courier,,"SYNDICATE AND SABER"
+#Title-String 0.000000,120.460000,12,c,Courier,,by\n\nFernando Magallanes
+#Title-String 15.000000,248.460000,12,,Courier,,832-873-7556\ndeuschristiamor66@gmail.com
+#Header-String 1,0,r,,${PAGE}.
+#Header-Empty-Lines 1
+#Start-Script 
+.\ext. mining planet - space
+>.A grayish earth like planet is suspended in the black
+>.eternity of space. A FREIGHTER rumbles by and shrinks into
+..the surface of the planet.
+.\Ext. mining region 176 - day
+>.The freighter lands vertically onto a designated zone
+>.surrounded by machines, drills and exhausted workers in
+..rags.
+>.A BANNER flies over one of the facilities. A banner of THE
+..SYNDICATE, its only symbol a hammer in a fist.
+>.A group of filthy WORKERS is in a cage ready to descend into
+..the underground.
+>.Poorly armed CONSCRIPTS are posted in various vantage points
+..doing their own form of forced labor.
+>.Just before the group of workers is locked in one desperate
+>.WORKER shoves his way out past the conscript and aims the
+>.mining rig at him. ZAP! The conscripts arm is nearly severed
+..and flops to the ground.
+>.Other conscripts shout in some other language and
+>.reluctantly hold up their crude rifles. The worker doesn't
+..care and sets another conscript aflame. ZAP!
+>.The workers in the cage begin to shout though it's not
+..certain if they are supporting him or not.
+>.BAM! The revolting worker falls dead and the rowdy workers
+..are quiet as their cage is shut and locked.
+>.As the cage enters the elevator shaft a young face stares
+>.into the dead worker's eyes. LARA SKY, hardy, fit and short
+..blonde hair; barely enough to pinch.
+.\int. mining shaft - underground
+>.Lara aims her mining rig at a deposit of metal and rock. A
+>.powerful blast slowly breaks chunks off. All around her, in
+..this hell like cavern, mining rigs blast away at the walls.
+>.The fallen fragments are then loaded and carted off to
+..another shaft that lifts materials to the surface.
+>.An older man, BENJAMIN TARLO, struggles to hold up his rig
+>.and drops it as it fires wildly. He falls to his knees
+..nursing his right arm.
+..Lara quickly runs over to him and sets her rig down.
+>.She can see through her breathing mask into his; an old face
+..of pain.
+>.She whips out a beacon and flashes it to some conscripts
+..posted nearby then cradles the old man.
+..They drag him into the shaft and ascend.
+.\int. living quarters - night
+>.Lara turns over from her top bunk and looks down at the old
+..Benjamin Tarlo. He is awake looking into the window outside.
+._lara
+.((whisper)
+.:Tarlo.
+..His eyes look up and smile.
+._benjamin
+.:You're still awake?
+._lara
+.:What did they say?
+._benJAMIN
+>:I can never understand them through
+.:their accent.
+.((scoffs)
+.:Foreigners.
+..She looks at him not sure what he means.
+._benJAMIN
+.((changes subject)
+.:You handle machines well, Lara.
+.((somber)
+>:Its a shame it's wasted on rocks
+.:and iron.
+._lara
+>:I modified my rig's grip to work on
+>:a body mounted swivel. I'm
+.:installing it...
+._beNJAMIN
+>:...Don't let them catch you with
+>:that. They might think you're a
+.:Machinist.
+..Lara dreams of an older time she never knew.
+._lara
+.:What was the old world like?
+._benJAMIN
+.((reminiscing)
+>:Oh, not much different but you
+>:could walk about freely...and even
+.:keep the fruit of your labor
+.((remembering)
+.:Which reminds me.
+>.Benjamin reaches into his bunk and pulls out a book with
+..some papers stuffed in it.
+._benJAMIN
+>:Now, this book makes me an enemy
+.:but even more so...this.
+..He hands her a stack of folded schematics.
+._beNJAMIN
+>:I designed this myself. My Magnum
+>:Opus not approved by the
+.:Syndicate...a weapon.
+._lara
+>:A weapon? I thought the Syndicate
+.:destroyed all of them.
+._bENJAMIN
+>:You can make a weapon with
+>:anything, Lara. Did you see that
+>:man cut through those men with
+.:nothing but a mining tool?
+._laRA
+.:Why a weapon, Tarlo?
+..He leans back and thinks.
+._bENJAMIN
+>:Because those who have all the
+.:weapons have all the power.
+..She looks into the charts and diagrams.
+._lara
+.:This looks like some kind of sword.
+._bENJAMIN
+.:Not just any sword...a fire sword.
+..Lara's eyes widen.
+._LARA
+.((studying)
+.:Why a sword? Why not a gun?
+._beNJAMIN
+.((slightly amused)
+>:Power sources are found
+.:everywhere...ammunition is not.
+>.Benjamin takes the schematics and folds them into the book
+..and gives it to her.
+._lARA
+.((reading)
+.:"The Machinist"
+._beNJAMIN
+>:Put that somewhere safe. I won't be
+.:needing it any longer.
+..She looks at him puzzled by his cryptic talk.
+.\ext. mining shaft - underground
+>.Lara cuts through some rock with her mining rig as other
+..workers come behind her and pick up the pieces.
+>.Benjamin on the other hand is trying to hold his rig steady
+>.with a trembling right arm. His face pleading as if his life
+..counted on it.
+>.Finally his arm gives out, he drops the rig again and falls
+..on one knee.
+..Lara stops and kneels next to him.
+._Lara
+.:Tarlo, are you okay?
+..His eyes tell her all she needs to know.
+._Benjamin
+.:I...
+..A CONSCRIPT stomps over to them.
+._Conscript
+.((thick accent)
+.:Work, old man!
+>.Lara puts her hand up to the conscript as if calming a
+..beast.
+._Lara
+>:He's just tired. We've been here
+.:seven hours...
+..The conscript raises his rifle threatening to strike him.
+._Conscript
+.:Work!  
+>.PAT! Lara catches the end of the rifle before it hits
+..Benjamin.
+>.The conscript growls and raises his rifle now to Lara when
+..Benjamin quickly grabs the mining rig and pulls the trigger.
+..ZAP! The rifle is cut right out of the conscripts hands.
+..Hands that are now on the ground.
+..The conscript looks into his hand-less arms and panics.
+>.Lara looks in horror at the hands then to Benjamin. His eyes
+..are calm knowing the consequences that are to follow. 
+>.More CONSCRIPTS shout in their language and march to the
+..scene. 
+>.Without hesitation they all aim and BAM! BAM! BAM! Benjamin
+..falls trembling in his own blood. 
+>.Lara's hands are up but she gets struck in the face anyway
+>.with a rifle stock. She falls back and watches Benjamin be
+..pulled away.
+._CONSCRIPT
+.:Work now, girl!
+>.Lara holds her mining rig and for just a second is tempted
+..to aim it at their backs and pull the trigger.
+>.She can't hold in her tears but she painfully turns around
+..and resumes work. So does everyone else. Just another day.
+..One MAN among the other workers looks at her curiously.
+.\INT. LIVING QUARTERS - NIGHT
+>.Lara turns over in her bunk just as she did the night before
+..but this time there is no sweet face just empty sheets.
+..She turns over and pulls out the book Benjamin gave her.
+>.A tear falls on its hard black cover. Old silver letters.
+.."The Machinist".
+..She cracks it open and sifts through its pages.
+._LARA
+.((reading)
+>:For when a man surrenders his
+>:ability to create for himself
+>:machines. That is the day he is no
+>:longer a man. He is now just a leaf
+.:in the sea.
+..Lara processes that and flips the pages some more.
+._LARA
+.((reading)
+>:The machine is not merely a
+>:collection of parts each with its
+>:own function it is a
+>:liberator...Therefore the machinist
+.:is a liberator. 
+>.She unfolds the schematics and looks at the beauty of its
+>.lines, angles and mathematics and tries to deduce some kind
+..of purpose to it all. 
+.\EXT. MINING REGION 176 - DAY
+>.All the workers are sitting down eating some kind of dirty
+..vegetable.
+>.Lara is sitting staring off into nothing. The vegetable is
+..just sitting there. Its not the same without Benjamin. 
+>.The man who was watching her earlier walks up to her. She
+..sees his feet then looks up until... 
+>.LIBERIUS INVICTOR, 32, tall, darkskinned and negligable
+..fitness.
+._Liberius
+.((african accent)
+.:May I sit?
+>.Lara doesn't really care. No one talks to eachother anyway
+..except for Benjamin. 
+..Lara moves her stuff over.
+._LIBERIUS
+>:Your friend is dead. I saw him when
+.:they pulled him to the surface. 
+..She says nothing.
+._LIBERIUS
+>:He was thrown into a cargo vehicle
+.:and dumped into the refinery. 
+..Its like he's trying to get reaction from her.
+._LIBERIUS
+.:No ceremony, no rites, no burial...
+._LARA
+.:...Okay!
+..He got one.
+._LIBERIUS
+.:What do you feel?
+._LARA
+.:Nothing...
+._LIBERIUS
+.:...Hate? 
+..She doubts his words but inside she knows it's true.
+._LIBERIUS
+.:Vengeful? 
+._LARA
+>:What do you want? I don't have time
+.:for your games!
+..Lara takes her rig and walks away.
+.\EXT. MINING REGION 176 - moments later
+>.Lara is walking towards the staging area when Liberius comes
+..after her.
+._LIBERIUS
+.:You are a Machinist?
+..Lara stops.
+._LARA
+.:How do you know that word?
+..Liberius grins. He's got her now.
+._LIBERIUS
+>:I come from a place where they are
+.:plenty. 
+._LARA
+.:I'm just a miner.
+..Liberius looks around and leans closer to her.
+._LIBERIUS
+.:You could learn there.
+..Lara shakes her head. This is all nonsense talk.
+._LARA
+.:What do you mean I can LEARN there?
+..Liberius hesitates to drop this news on to her.
+._LIBERIUS
+.:We...we can leave here.
+..Her eyes widen at such a foreign concept.
+._LARA
+.:You're crazy.
+..Lara dissapears into the shaft staging area.
+..Liberius looks at her. He tries to reformulate his strategy. 
+.\INT. MINING SHAFT - UNDERGROUND
+>.Mining rigs cut away at the walls of the hellish cavern.
+..conscripts drag a worker off every now and then.
+>.Suddenly an OFFICER appears at the opening of the elevator
+..with somekind of voice projector device.
+._Officer
+>:Attention all hands. Work quotas
+>:have been increased 98% to meet
+>:needs of Syndicate's Army. There
+.:will be no sleep.
+>.A murmur grows to a rumble among the workers. They are
+..shouting protests and curses. 
+..One WORKER drops his rig.
+._Worker
+.:No sleep no work!
+..Another rig falls then another then another.
+._WORKER
+.:No sleep no work!
+._WORKERS
+.:No sleep no work! No sleep no work!
+>.The officer casually returns to the elevator and is gone
+..leaving the conscripts to deal with the fallout.
+..Conscripts form up in a line in front of the workers.
+._CONSCRIPT
+.:Work now!
+..The chant continues.
+._WORKERS
+.:No sleep no work!
+._CONSCRIPT
+.:Work now!
+>.They raise their rifles; so many innocent faces among them.
+>.The workers slowly advance one of them picking their rig
+..back up.
+>.CORPORAL, a conscript with two stripes on his shoulder steps
+..into view.
+._CORporal
+.:Return to work!
+>.A SHOUT then a worker charges at a conscript and burns a
+..whole through his chest ZAP!
+..BAM! He's shot dead. 
+._CORPORAL
+.:Engage!
+>.The line of conscipts fire indiscriminately into the crowd
+..killing dozens.
+..Lara falls to the ground and balls up behind some equipment.
+..After a few seconds of fire it's quiet.
+>.Lara peaks out and sees a few conscripts dead and many
+..workers bleeding out through their wounds. 
+>.Suddenly another lift opens and lets out some fifty more
+..conscipts. 
+..They run out and secure the area. 
+.\INT. MINING SHAFT - UNDERGROUNd - later
+>.Lara and those left cut away at the rocks. Hatred on their
+..faces.
+>.Meanwhile, the conscripts pile up the dead in the corner and
+..lift them into the elevator a few at a time.
+..Liberius checks around him and walks over to her.
+._LIBERIUS
+.:Am I really the crazy one here?
+>.She doesn't look at him but she acknowledges him. He's
+..right.
+..Lara releases the trigger on her rig.
+._LARA
+>:Why should I leave? What about all
+.:them?
+..She zaps some rocks.
+._LIBERIUS
+>:You're the youngest one here. Who
+.:better to carry intelligence?
+._LARA
+.:What intelligence?
+._LIBERIUS
+>:Do you ever wonder what is beyond
+.:these rocks?
+._LARA
+.:Sometimes...
+._LIBERIUS
+>:...Well I don't because I've been
+.:there. 
+..Liberius zaps a rock.
+._LIBERIUS
+>:Military targets, coordinates and
+>:security cleareance codes for
+.:access to vital systems.
+..She looks at him.
+._LARA
+.:You some kind of spy?
+._LIBERIUS
+.:I know my way around.
+..Lara can't find a scenario in her mind where they escape.
+._LARA
+>:How would you...leave? If you
+.:could.
+._LIBERIUS
+>:This mining post is irrelevant;
+>:hardly important. And these guards
+>:are just as scared as us. Their
+>:guns might as well be chained to
+.:their hands.
+._LARA
+.:How does that get us out?
+..She blasts another rock.
+..Liberius leans in real close to tell her the secret until...
+._LIBERIUS
+>:We just leave. I know the man who
+>:supplies the officer's kitchen
+>:here. A pirate...but they don't
+.:know that.
+>.She tries to figure out if he's just trying to get her
+..killed.
+._Lara
+.:Just like that?
+._Liberius
+.:Look.
+>.Liberius pulls back his sleeve to show his plain skin. Lara
+..looks at her own skin. Printed on her skin is "12807".
+..A CONSCRIPT comes out of nowhere and pushes them both.
+._Conscript
+.:Return to work, you!
+.\EXT. MINING REGION 176 - morning
+>.Exhaused workers come out of the shaft covered in blood and
+..soot. 
+>.They all stragle along until they arrive at the living
+..quarters.
+..Lara stops Liberius.
+._LARA
+.:What's your name?
+._LIBERIUS
+.:Call me Liberius.
+>.She closes her eyes and almost falls asleep for a couple
+..seconds.
+._LARA
+>:Let's meet your pirate then,
+.:Liberius.
+.\EXT. MINING REGION 176 - DAY
+>.The frieghter ship from the beginning lands vertically onto
+..the landing zone. The cargo bay opens with a hiss of smoke.
+>.Through the cloud walks CAPTAIN VORLO, tall, olive skin and
+>.handsome in that sleezy douchbag kind of way. He wears a
+..nice uniform too nice for his demeanor.
+>.He rolls down the ramp with a cargo crate and pushes it
+..along.
+>.As he pushes he casually looks at Liberius nearby who
+>.signals some vague gesture. Captain Vorlo touches the brim
+..of his hat.
+.\EXT. MINING REGION 176 - officer's quarters -  DAY
+..Vorlo pushes a buzzer next to a door.
+>.It opens. OFFICER RAMO peeks in and smiles. His shirt is
+..half undone.
+._Ramo
+.:Oh god. Captain Teller. 
+.((relieved)
+.:Did you bring it this time?
+._Vorlo
+>:Oh ya know what? I left it in the
+>:ship. It's just in the upper
+>:compartment if you wanna grab it
+.:while I unload this.
+._Ramo
+.:Don't mind if I do!
+>.Vorlo's fake smile fades as he hurries over to a conscript
+..guarding the perimeter. Liberius and Lara just over there.
+._Vorlo
+.:Soldier.
+..The conscript turns around.
+._CONscript
+.((confused)
+.:Piet. Nadoren. 
+._VORLO
+>:Yea yea. Go guard something else.
+>:You're stinking this place up for
+.:his majesty.
+..Vorlo gestures to Officer Ramo inside his ship.
+..The conscript looks at the rank on Vorlo's shirt.
+._CONSCRIPT
+.((annoyed)
+.:Shastop a niurro.
+..As the conscript walks away Liberius and Lara come closer.
+>.Officer Ramo walks down the ramp with a small crate and a
+..smile.
+._RAMO
+.:Oh this sounds like it
+._VORLO
+.:Hey hey those are antiques!
+..Vorlo motions them to stop.
+._VORLO
+.:It's uh...the red one.
+..Ramo grunts and walks back up the ramp.
+>.Vorlo waves them over. Ramo is on the cusp of seeing them
+..run into the quarters.
+._VORLO
+.((playfully)
+.:Hey there it is!
+..Vorlo stops Ramo by the shoulder gently.
+._VORLO
+.:Hey listen. I was thinking.
+.\Int. Mining region 176 - officer's quarters - day
+..Liberius helps Lara into the large cargo crate.
+._LARA
+.:In here?
+._LIBERIUS
+.:Well yea.
+..He shoves her into the crate and he fits himself next.
+._LARA
+.:Your foot is on my face!
+._LIBERIUS
+.:That's not my foot. Shh!
+..PAM! He closes the crate from the inside.
+.\EXT. MINING REGION 176 - OFFICER'S QUARTERS -  DAY
+._VORLO
+>:Well this stuff is hard to get,
+>:Ramo. You think it's fair for me to
+.:do all that looking for free?
+._RAMO
+.:Well...I...
+._VORLO
+>:How bout this. Next time I see you
+>:I want one of those pathetic
+.:looking miners to shine my boots.
+._RAMO
+.((laughing)
+.:Oh that's easy. Done.
+..Vorlo smiles with a resolution.
+._VORLO
+.:Good.
+>.Vorlo walks into the quarters and rolls the big cargo crate
+..back out.
+._RAMO
+.:What are you doing?
+._VORLO
+.((obviously)
+.:I'm loading this back up. 
+..Ramo just watches him puzzled.
+._RAMO
+.:That's my food.
+..IN CARGO BAY
+>.Vorlo leans on the side of the bay door as his ship starts
+..up.
+._VORLO
+>:Now, that really is the good stuff
+.:I promise.
+>((pointing at the red
+.(crate)
+.:But my name is Vorlo.
+>.Ramo is still confused until he sees two faces in the
+..cockpit.
+>.The bay doors close and a burst of thrust sends Ramo flying
+..back. 
+..Ramo aims his sidearm at the ship but's way too high up now.
+.\Ext. Sky - day
+>.Up and up and up the freighter goes. The whole world that
+..Lara knew is now just the size of her hand from her view.
+>.The frieghter powers through the firery atmosphere then
+..shrinks into the darkness of space.
+.\Int. Star Eagle freighter - cockpit - space
+>.Dirty weatherd walls, boxes and angular shaped things all
+..around. Practical.
+..Lara is passed out and strapped into her seat.
+..She wakes up to see...
+..Liberius and Captain Vorlo.
+._VORLO
+>:So...this is it huh? You think
+.:they'll take her?
+._LIBERIUS
+.:Absolutely.
+..She squints at them.
+._LARA
+.:Who will take her?
+>.Vorlo turns around but Liberius keeps his eyes on the
+..controls of the ship. 
+._VORLO
+.((douchey smile)
+.:Oh well howdy princess.
+._Lara
+.:Who's taking who?
+..Vorlo puts his leg up and rests on his leg.
+._Vorlo
+>:Don't think we saved you cause your
+.:good looks.
+>.She panics and looks at Liberius who still won't look at
+..her.
+._Vorlo
+>:Where we're going they'll pay
+>:50,000 ciphers for someone like
+.:you.
+..Vorlo touches her hair.
+._Vorlo
+>:20,000 if you can't grow this out
+.:in time. 
+..She looks at Liberius with disgust.
+._LARA
+>:I can't believe you. Scum. I'm
+>:calling you scum because Liberius
+.:isn't even your name probably.
+..He turns around.
+._LIBERIUS
+.:Invictor. Liberius Invictor.
+>.She looks off to the side regretting this huge venture. At
+..least in the mining region she could work on her machines. 
+._LARA
+.((to Vorlo)
+.:Am I your prisoner then?
+._VORLO
+>:No...think of yourself as produce
+>:in a market basket. You're not
+>:really a prisoner but you're not
+.:gonna leave our custody either.
+..Lara tries to unbuckle her straps. They're locked.
+..She sighs.
+._LARA
+.:Where are you going?
+..Captain Vorlo takes a nice comfy seat. 
+._VORLO
+>:To pay off some debts. Where else
+>:can we get valuable stock like you
+>:that no one will ever come looking
+.:for?
+..Liberius turns slightly toward her.
+._Liberius
+>:It's a port system residing in
+.:S.P.U. space.
+._Lara
+.:S.P.U.?
+._Liberius
+.:Soverign Planets Union.
+..Vorlo kicks his legs up.
+._Vorlo
+.((laughing)
+>:Ha! More like Soverign Losers
+.:Union. 
+..Vorlo looks at Lara amused.
+._Vorlo
+>:The Syndicate will plow through
+.:them...just a matter of time. 
+._Liberius
+>:Another three planets entered their
+>:union just recently. They grow more
+>:powerful by the day. Eventually the
+.:Syndicate will have to...
+..The frieghter jumps out of warp right into a battle.
+..BOOM! BOOM! A ship is torn apart next to them.
+>.Vorlo hops into the Co-pilot's seat and slaps Liberius on
+..the back.
+._VORLO
+.((laughing)
+.:You were saying?
+.\Ext. Minera II - space
+>.A fleet of Syndicate capitol ships is in the middle of a
+>.space battle with S.P.U. Capitol ships supported by militia
+..defending the planet.
+>.The Syndicate ships are large and look like they just rolled
+>.off the assembly lines while the S.P.U. ships are more worn
+..especially the militia ships. 
+>.The Star Eagle maneuvers through the chaos. As soon as it
+>.can it finds a lane to the lower levels of the battle and
+..eventually reaches empty space.
+.\Int. Star eagle - cockpit - space
+._Vorlo
+>:Sorry to leave so early but we got
+.:the goods on board!
+..Suddenly a sensor beeps red.
+._Liberius
+.:Someone's got a lock.
+..He flips some switches.
+.\
+..
+.\Ext. Star eagle - space
+>.A Syndicate fighter spins onto their six and fires its gun
+>.freely trying to catch the Star Eagle in its evasive
+..maneuvers.
+..Bursts of fire slowly grind down the armor of the freighter. 
+.\INT. STAR EAGLE - COCKPIT - SPACE
+..Captain Vorlo keeps lookig back at Lara.
+._Vorlo
+.:Hey kid, can you pull a trigger?
+..The walls rumble from gunfire.
+._Vorlo
+>:You think you can crawl up in the
+.:gun and point and shoot?
+..Lara shrugs surprised.
+._Lara
+.:I'm in a market basket remember?
+._Vorlo
+.:Yea.
+>.He reaches back and waves the key infront and her buckles
+..fall off.
+._Lara
+.:Don't sell me and I'll do it.
+..The walls rumble and some explosions go off.
+._Vorlo
+>:Yea sure! The gun is just that way.
+.:It's pretty self explanatory!
+..She runs off and climbs into the gun.
+.\Int. Star eagle - rear gun - space
+>.A dim pod with nothing but a computer screen, a shield and a
+..heavy looking mounted gun.  
+..Lara sits and the lights come on.
+._VORLO(o.s.)
+.:Let's go market basket!
+..She pulls back on the slide and the gun loads itself.
+.\EXT. STAR EAGLE - SPACE
+>.A heavy burst of gunfire comes from the rear gun. It wildly
+>.misses for the first few seconds but Lara soon has return
+..fire on the fighter.
+>.The figter evades but is hit with a few shots disabling its
+..engines. It quickly flys away.
+.\INT. STAR EAGLE - COCKPIT - SPACE
+..Vorlo puts a fist up.
+._VORLO
+.:Nice hit, kid! Let's get out of...
+..The sensor beeps again.
+._VORLO
+.:Nevermind.
+._LIBERIUS
+.:Enemy lock.
+.\INT. STAR EAGLE - REAR GUN - SPACE
+..Lara swings the gun around.
+.\EXT. STAR EAGLE - SPACE
+..The rear gun swings to a FIGHTER coming broadside.
+>.The fighter lays fire across the back of the freighter but
+..is deflected by armor. 
+>.As the fighter flies over the rear gun barely cathes it with
+..return fire.
+..BOOM! The fighter explodes from underneath and flys away.
+.\INT. STAR EAGLE - COCKPIT - SPACE
+._Vorlo 
+.:Wait for it.
+>.He looks at the sensor. Silence as they continue their path
+..to the planet.
+.\EXT. STAR EAGLE - SPACE
+>.The damaged fighter swings back around and fires a self
+..guided missile and hits the freighter dead on.
+..BOOM!
+.\INT. STAR EAGLE - COCKPIT - SPACE
+>.Vorlo and Liberius rock forward as the lights dim and alarms
+..go off.
+._VORLO 
+.:That doesn't sound good.
+._LIBERIUS
+.:I've lost control!
+..They look at the planet they are barrelling towards.
+..Immedeately they both get up.
+._VORLO 
+>:We can't make it though the
+.:atmosphere in this thing!
+>.Using the emergency rails they manuever through the dying
+..ship. Alarms blaring.
+._LIBERIUS
+.:What about Lara?
+._VORLO 
+>:Oh I'm not leaving her here if
+.:that's what you think!
+.\INT. STAR EAGLE - REAR GUN - SPACE
+>.Lara is still firing the gun when Vorlo's hand grabs her and
+..pulls her from the gun.
+._VORLO 
+.:C'mon we're not doing that anymore!
+.\INT. STAR EAGLE - life pod - SPACE
+>.Vorlo, Liberius and Lara crawl into a container that can
+..barely hold them.
+._VORLO
+.((lauging hysterically) 
+>:Can you believe I almost didn't
+.:install this thing?
+..Liberius and Lara both look at him concerned. 
+..Suddenly a thought pops into her head.
+._LARA
+.:Wait my stuff!
+..She runs out.
+.\INT. STAR EAGLE - COCKPIT - SPACE
+..Lara guards her face as she is looking for her backpack. 
+.\EXT. STAR EAGLE - SPACE
+>.The damaged fighter comes back around and lays more free
+..gunfire to finish off the freighter.
+.\INT. STAR EAGLE - LIFE POD - SPACE
+..Vorlo and Liberius both hold on for dear life.
+._VORLO
+>:I'm gonna be so mad if we get
+>:ourselves killed for a routine run
+.:like her!
+._LIBERIUS
+.:She's something else.
+..Suddenly Lara comes around the corner with her bag.
+._Varlo
+>:Oh. You have a good time? What's it
+.:like up there?
+._LARA
+>:If I lose this I might as well be
+.:dead!
+..She crawls in. The hatch closes and shoots off into space.
+.\EXT. STAR EAGLE - SPACE
+>.The pod jets away as the freighter explodes and the fighter
+..flys away. 
+.\INT. LIFE POD - SPACE
+..The trio is strapped in undergoing the g-force from rentry.
+._VARLO
+.((grimacing)
+.:That ship was so nice!
+._LIBERIUS
+.((grimacing)
+.:We'll just get another!
+..Lara is passed out.
+.\EXT. MINERA II - day
+..Lara slowly wakes from the wreckage and climbs out.
+..A city off in the distance but pure desert all around.
+..CLANK! Vorlo cuffs Lara's hand to his.
+._VARLO
+.:You're not going anywhere, kid.
+._LARA
+.:Are you kidding! We had a deal!
+._VARLO
+.((gesturing around him)
+>:Clearly you didn't uphold your end
+.:of the deal...Besides.
+.((smiling)
+>:You should know better than to make
+.:a deal with a pirate.
+..Liberius walks up and interrupts.
+._LIBERIUS
+>:The city is a few miles out. C'mon
+.:I just armed the bike.
+>.He points to a hover bike assembled from the life pod's
+..supply bay.
+..Vorlo pushes Lara to the bike.
+._VORLO
+.:C'mon let's go!
+..They all hop on and in a second speed away into the dunes.
+.\EXT. Corvesh city - Trading posts - day
+>.Tents and oddities all around form somewhat of a city in
+..itself.
+..Trinkets, doodads and food; lots and lots of food.
+..Captain Vorlo yanks Lara closer like a dog on a leash.
+._VORLO
+>:You try anything, I'll pull this
+.:trigger and no one will care.
+..She looks at both of them with disgust. 
+.\Int. Corvesh city - underground market - day
+..The trio walks up a grimey window booth.
+..A greasy MAN looks at them...waiting.
+._Man
+.:What are ya selling?
+..Vorlo pulls Lara closer.
+._VORLO
+.:Her.
+..The man's eyes widen. He's interested all of a sudden.
+._MAN
+.:How...how much?
+._VORLO
+.:What's it to you?
+._MAN
+.:Ten, fifteen?...
+._VORLO
+>:...Get out of here. I don't want
+.:your cut rates...
+._MAN
+>:...I'll give you double anything
+.:you'll get in there!
+._VORLO
+.((scoffing)
+>:Yea right. You don't even have
+.:double.
+..Vorlo pulls out his sidearm.
+._VORLO
+.:You gonna put her in there or what?
+..The man calms down. He's not getting her.
+._MAN
+.:Age?
+._VORLO
+.((to Lara)
+.:Go on tell him.
+._LARA
+>:I'm sixty years old you don't want
+>:me! I got worms! I'm sick. I'll get
+.:YOU sick! I'll...
+._Volro
+.:...Shut up!
+._VOLRO
+.((to the man)
+.:She's seventeen. Real nice.
+._LARA
+.:I'm twenty.
+..Vorlo droops over and rolls his eyes.
+._VOLRO
+.:You trying to make me lose money?
+..Lara is done talking.
+._LIBERIUS
+.((to the man)
+.:She is very strong. Good heart.
+._MAN
+.((smiling)
+.:Good legs?
+._liberius
+.:Strong legs.
+..Vorlo taps Liberius away.
+._VOLRO
+.:Look at her. She's good enough.
+._MAN
+.((clicking tongue)
+.:No hair.
+..Vorlo leans in real close and impatient.
+._VOLRO
+>:Is that really gonna matter I
+.:mean...
+..They know what he's talking about.
+._VOLRO
+.:C'mon...
+>.The man chuckles and types away at a stained keyboard like a
+..machine and opens the door next to him.
+..Vorlo loosens the cuffs and pushes her into the door.
+>.On the other side the man slaps a sticker with the numbers
+.."12078".
+.\INT. CORVESH CITY - auction - underground
+>.A small arena surrounded by buyers throwing up cards back
+>.and forth with an auctioneer, SKIP, going crazy at the
+..podium.
+._Skip
+>:Now lemme hear ya
+.:ten...twenty...thrity...fourty.
+..Skip points at a buyer.
+._SKIP
+>:Can I get a fity fity fity
+>:fity...SOLD! For a fity cipher
+.:bill. The man in blue.
+>.A SHOW WOMAN comes out with a sophisticated looking vase.
+..Skip looks back at it and begins again.
+._
+._SKIP
+>:Now what I got here is an ancient
+>:relic. Preserved from antiquity in
+>:all it's beauty for one lucky buyer
+.:here today. 
+.((waving hands)
+.:Can I get one hundred!
+..A card flys up in the crowd.
+._SKIP
+.((pointing)
+.:Right here!
+..Another card goes up.
+._SKIP
+>:Two
+.:hunerd...three...four...five...six
+.((pointing)
+>:Can I get a sik sik sik sik...SOLD!
+>:For a five hunerd cipher bill. The
+.:man in blue! Congradulations.
+>.The show woman walks Lara out by the hand gently as if she
+..weren't about to be sold into slavery.
+>.Lara is wearing some ugly dress they just tossed onto her.
+..Clearly uncomfortable.  
+>.Captain Vorlo and Liberius watch casually in the crowd
+..waiting for their payday.
+>.The MAN IN BLUE sits up his eyes about to blow. He's already
+..waving his card.
+._SKIP
+.((wiping forehead)
+>:Alrighty. What I got here is fine
+>:stock. STRONG legs. What she lacks
+.:in the curves she has in the ARMS.
+.((winking)
+.:Can I get...
+..The man in blue stands to his feet and raises his card.
+._MAN IN blue
+.:Sixty thousand!
+..The crowd goes wild.
+._SKIP
+.:Can I get sixty five?
+.((pointing)
+.:Right here!
+._MAN IN BLUE
+.:Seventy thousand!
+..Vorlo and Liberius almost lose their jaws.
+._SKIP
+>:Can I get seventy five? Right here!
+.:Eighty...eighty five...ninety.
+._MAN IN BLUE
+.:Two hundred thousand!
+..Liberius and Vorlo are speechless. 
+._SKIP
+>:Two hundred thousand! My lord, can
+>:I get a twenty five? Tweny fi tweny
+>:fi tweny fi...SOLD! For a two
+.:hunerd thousand cipher bill!
+..Skip smiles and points at the winner.
+._SKIP
+.:To the man in blue.
+..Vorlo and Liberius jump for joy.
+..Lara's face is blank. She went from one slavery to another.
+.\INT. CORVESH CITY - MARKET - underground
+>.THUD! THUD! Two hefty crates are dropped in front of
+..Liberius and Vorlo. 
+>.They unlatch the crates and see those beautiful ciphers
+..stacked neatly in rows.
+._VORLO
+.:What a catch, huh?
+..Liberius looks down the corridor, sad to see her go.
+>.The man in blue is already caressing Lara's cheeks with his
+..fine gloves.
+._VORLO
+.((frowning)
+>:Oh don't tell me you're getting
+.:soft on me.
+._LIBERIUS
+.:She feels different.
+._VORLO
+>:Hey, how many of these have we
+>:done? Not one of em have been worth
+.:this much.
+.((proud of himself)
+>:I mean, I severely undervalued this
+.:girl.
+._LIBERIUS
+.:She's...
+._VORLO
+.:We'll be able to pay off Yorken...
+._LIBERIUS
+>:...YOU'LL be able to. You got
+.:yourself into that mess.
+._VORLO
+.:The rest is ours.
+>.Liberius looks at their fortune then back at Lara who is
+..being led away.
+..Liberius holds up her bag.
+._LIBERIUS
+.:She's a machinist.
+._VORLO
+>:I thought you were done with all
+>:that hokey stuff. This girl is
+>:barely ripe no way she's a
+.:machinist.
+>.Liberius pulls out the machinist book. Vorlo swipes it away
+..and opens it and unfolds the schematics.
+._VORLO
+.:What is this...a flashlight?
+._LIBERIUS
+.:It's something.
+..Vorlo tosses the book back into the bag.
+._VORLO
+>:I gotta get this to Yorken's filthy
+>:mitts. Syndicate fighters will be
+.:flying over the skies soon.
+..Vorlo hands Liberius a cipher case.
+._VORLO
+>:I'm not getting stranded on this
+.:mudball.
+.\EXT. CORVESH CITY - TRADING POSTS - DAY
+>.Captain Vorlo and Liberius look up into the sky and see
+..flashes of light from the battle way up there. 
+._VORLO
+>:Isn't it amazing? On the brink of
+>:invasion and everyone is still down
+.:here living it up. What filth.
+.\INT. CORVESH CITY - yorken's cantina - day
+>.Vorlo and Liberius are sitting in a tight booth with their
+..fortune sitting next to them. 
+>.Vorlo waves at a passing WAITRESS, reaches into his crate
+..and flicks a cipher at her.
+..She drops two drinks on the table.
+..Before Vorlo can drink it Liberius pulls the cup away.
+._LIBERIUS
+>:Whatever happens...don't let Yorken
+>:lure you into some stupid quest
+.:this time. She's a scam artist...
+>.YORKEN, 35, white,  plops down. Her mohawk and thick
+..eyeliner are pretty intense.
+._Yorken
+.((australian)
+.:Whatcha got there, Cap'n?
+._VORLO
+.((nervous)
+.:Hey. Well...It's uh. What I owe ya.
+._YORKEN
+.:Fifty thousand? 
+..Vorlo nods. 
+._VORLO
+.:Mmhmm.
+>.Vorlo piles up fifty thousand ciphers but Yorken's eyes
+..never leave his.
+._YORKEN
+>:Anyone ever tell ya you got the
+.:prettiest eyes?
+._VORLO
+.:Well...
+..Yorken runs her finger along his jaw.
+._YORKEN
+.:That jawline...
+._VORLO
+.((smiling nervously)
+>:Fifty thousand...just like you
+.:asked.
+..Her eyes don't leave his.
+._YORKEN
+.:I want something extra.
+._VORLO
+>:Aw c'mon I still need to buy a ship
+.:to get off this grease ball...
+._YORKEN
+>:...I got some new guns...they're up
+.:in my quarters if you wanna see.
+._VORLO
+.:Well...
+>.Liberius just pinches his bridge waiting for this to be
+..over.
+._VORLO
+.:Well...
+..Yorken gently grabs his hands with her gloved fingers.
+._VORLO
+.:Well...
+.\Ext. Yorken's cantina - dusk
+..Vorlo comes out panting with Liberius at his side.
+._VORLO
+.:Oh god that woman is...intense.
+._LIBERIUS
+.:Captain.
+..He straightens Vorlo by the shoulders.
+._LIBERIUS
+>:You need to work on your suave.
+.:Because...
+.((cringes)
+.:It's non existent.
+..Vorlo take a breath and recenters himself.
+._VORLO
+>:C'mon let's find a ship and get off
+.:this rock.
+.\INT. CORVESH CITY - Booloo space port - dusk
+>.Liberius and Vorlo speedily walk past a lot of star ships.
+..They are all assorted neatly like cars.
+..Vorlo drops a crate onto a TRADER'S desk.
+._VORLO 
+>:Interstellar. What can I get with
+.:fifty thousand?
+..The trader looks at him and then the crate.
+.\INT. CORVESH CITY - BOOLOO SPACE PORT - bay 94 - dusk
+>.The trader gestures to a pretty modest looking ship. It's
+..nothing like the Star Eagle.
+._Trader
+>:The Interstellar Economy Cargo
+.:Class 450...
+..Vorlo drops 50k.
+._VORLO 
+.:Looks great, boss.
+>.Vorlo and Liberius enter through the cargo bay. Before the
+..ramp closes Captain Vorlo peeks out.
+._VORLO 
+.:This thing fueld up?
+..The trader just shakes his head.
+._VORLO
+.((to Liberius) 
+>:Eh, that's alright we'll just stop
+.:somewhere on the way.
+>.Suddenly two Syndicate fighters scream overhead kicking up
+..the sand around Vorlo's new ship.
+>.Vorlo looks up and sees a swarm of distant fighters and
+..bombers much like a WW2 scene.
+._VORLO
+.((to himself)
+.:No...no no no.
+..Liberius looks up. It was just a matter of time.
+._Liberius
+>:You wanna try and fly through that
+.:mess?
+._VORLO
+.((watching the sky) 
+.:Not in this bucket.
+.\EXT. CORVESH CITY - DAY
+>.Dozens of airgroups fly overhead while idustrial armored
+..vehicles and transports roll into the city. 
+>.Regiments and regiments of poorly armed conscripts walk
+..through the streets.
+..The inhabitants watch from windows and other safe places. 
+>.The sounds of greasy treads squeeling by. The sound of
+..absolute power. The sound of the Syndicate's iron fist.
+.\Int. INterstellar 450 - night
+>.Captain Vorlo and Liberius sit in the living quarters. It's
+..small, cozy but has all the comforts.
+>.The dim sound of the fighters screaming by every now and
+..then.
+>.Liberius is looking through the machinist book from Lara's
+..bag.
+._LIBERIUS
+.((reading)
+>:If one part of a whole has sole
+>:control over the use of machines.
+>:The rest of the parts cannot expect
+.:the most powerful to be benevolent.
+..Vorlo looks off tired of the mumbo jumbo.
+._LIBERIUS
+.((reading)
+>:Creators are capable of
+>:constructing machines of torture.
+>:Gaining sole power over machines is
+>:in itself a machine. Therefore what
+>:is there to stop such a state but a
+.:balance in power?
+._VORLO
+>:Can you stop reading that? If I
+>:wanted to slam my head against the
+.:wall I'd do it myself.
+..Liberius closes the book annoyed.
+._LIBERIUS
+.:What, too many bad memories?
+._VORLO
+.((laughing cynically)
+>:Don't you start accusing me. You
+>:were right there by my side. I
+.:could blame YOU just as well.
+._LIBERIUS
+>:We should not have sold her. Now we
+.:will be cursed by the Machinations!
+._VORLO
+.((spooky fingers)
+.:Oooh. The Machinations...
+.((mocking)
+.:The schemes of the great architect.
+..Vorlo waves off that nonsense.
+._VORLO
+>:Please. That's just a bunch of
+.:superstitious drivel. 
+._LIBERIUS
+.:You are a sacriligous heathen!
+._VORLO
+>:Well welcome to the club! We sell
+>:girls into slavery! If you think
+>:you're going to machine heaven
+.:think again!
+..They sit there arms crossed pouting like children.
+..Finally Liberius breaks the ice.
+._LIBERIUS
+.:How long are we going to be here?
+._VORLO
+.:You see those fighters?
+._LIBERIUS
+.:Yes...
+._VORLO
+>:...There's like a thousand of 'em!
+>:We could be here until the S.P.U.
+>:Drives 'em out or worse the whole
+.:war is over.
+..Vorlo lays down completely and closes his eyes.
+._VORLO
+>:It's simple. We fly outta here we
+.:get shot down.
+._LIBERIUS
+>:The Capitol City is still on the
+>:other side of the planet. We could
+.:go by land.
+._VORLO
+.((amused)
+>:How exactly do we leave here
+.:unseen?
+._LIBERIUS
+>:I know a smuggler. He
+.:transports...questionable goods.
+..Vorlo opens an eye.
+._VORLO
+.:Questionable goods? Slaves?
+._LIBERIUS
+>:Yes. If we get Lara we can use her
+>:to bargain our way through the
+.:smuggle route.
+..Vorlo stands up.
+._VORLO
+.((smiling)
+.:I'm the heathen?
+._LIBERIUS
+>:The man in blue is always there. We
+.:can "ask" him a few questions.
+>.Vorlo thinks about the plan for a second. He's not into
+>.liberating for free but it sure beats sitting inside that
+..ship. 
+._VORLO
+.:I guess it's time for a repo.
+.\INT. CORVESH CITY - MARKET - UNDERGROUND
+>.Even with the Syndicate occupation the underground markets
+..continue.
+._SKIP
+>:Now eighty...now ninety...now one
+>:hundred...one twenty. SOLD! To the
+.:man in blue.
+.\INT. CORVESH CITY - corridor - UNDERGROUND
+>.The man in blue comes through a doorway with expensive
+..looking trinkets. 
+>.Farther down the corridor Captain Vorlo and Liberius are
+..waiting for him trying to look inconspicious.
+>.The man in blue walks right past them. He's too good to
+..worry about them.
+..Vorlo and Liberius glance at each other and begin to follow.
+.\EXT. CORVESH CITY - ALLEY - UNDERGROUND
+>.A heavy looking door hisses as it opens and reveals a dirty
+..space between this building and the next. 
+..Trash, dirt and the occasional beggar.
+>.The man in blue comes through the door humming some posh
+>.melody as he nearly hovers gracefully towards a black
+>.beautifully waxed hover car...definetely from somewhere
+..else. 
+..Vorlo and Liberius are quickly behind him.
+._LIBERIUS
+.:Ey! Blue man!
+>.The man in blue turns around and quickly waddles over to his
+..luxory car until...SLAP!
+..Liberius and Vorlo block him off from the door.
+._MAN IN BLUE
+.:What on Minera do you want!
+..Liberius holds up his hands trying to be the good guy.
+._LIBERIUS
+>:Not you, Blue Man. Where is the
+>:girl you paid two-hundred and fifty
+.:thousand for?
+._MAN IN BLUE
+.:I don't know what you're...
+>.POP! Captain Vorlo lunges a deep uppercut to Blue Man's gut.
+>.He squeels and falls to his knees. For once some dirt gets
+..on his nice clothes. 
+._VORLO 
+>:Listen, fatts, We got places to be
+>:and don't have time for bush
+.:beating. Where's Lara?
+..Vorlo whips out his sidearm and points it at the pretty car. 
+._MAN IN BLUE
+.:Okay! It's just a girl...
+._VORLO 
+.:...Yea our ticket outta here.
+>.Vorlo and Liberius pickup the posh man and put him in the
+>.backseat of the car. The gull-wing door slams shut and Vorlo
+..grins at Liberius.
+._VORLO 
+.:That was easy. 
+.\INT. Corvesh city - luxory car - underground
+>.Captain Vorlo slams around the controls and screams off in
+..the powerful little car.
+._Liberius
+.:Where to?
+._MAN IN BLUE
+>:I could tell you anything. I could
+>:lead you into a trap and you
+.:wouldn't even know.
+..Vorlo slams on the breaks and looks back at the man in blue.
+._VORLO 
+>:I thought we were done with all
+>:that. Should we go back to the
+>:alley so my friend here can break
+.:your fingers?
+>.The man in blue looks at Liberius for a second and
+>.contemplates the possibility. Blue Man's not the type to be
+..defiant it's just a show.
+._MAN IN BLUE
+.((sighing)
+.:She's in the Hacora district.
+..Vorlo continues driving.
+._MAN IN BLUE
+>:That girl is like a fire. Amazing
+.:to see but painful if you touch.
+..Liberius grumbles to himself.
+._LIBERIUS
+>:Have you seen yourself? You are
+.:painful to even look at. 
+.\int. Hacora district - blue man's property -  night
+>.Lara Sky leans looking out a tiny window of a plain looking
+>.room. Her eyes gaze at the large Syndicate ships hovering in
+..the atmosphere. 
+>.A knock on the solid door sends her gaze away from the
+..window. She balls a fist.
+>.The door hisses open to reveal Captain Vorlo and Liberius.
+>.She stops not sure if she should be happy to see those two
+..there in place of The man in blue.
+._Vorlo
+.:Hey kid.
+._Lara
+.:What is this?
+._Vorlo
+.:We're getting you out of here.
+._Lara
+.((laughing cynically)
+>:Oh really? Are you gonna sell me
+>:back there for the seasonal
+.:special? 
+._Vorlo
+>:Kid, were trying to get off this
+.:rock...
+._Lara
+>:...Why would I listen to you two
+.:again?
+>.Suddenly Liberius gently pushes Vorlo out of the way and
+..enters the room then walks Lara back to the window. 
+._Liberius
+>:Lara, please forgive me for taking
+>:you away from the life you knew. I
+>:know the machinations will not see
+>:kindly on me but there is one thing
+.:you must understand. 
+..The expression on her face changes.
+._Lara
+.:What?
+._Liberius
+>:For years I have been collecting
+>:documents proving the genocidal
+>:crimes that will ultimately spell
+.:the end of the Syndicate.
+._Lara
+.:Am I supposed to believe this?
+._Liberius
+.:Your friend. The old man.
+._Lara
+.:Benjamin.
+._Liberius 
+>:Did he ever tell you where he was
+.:from?
+..Lara thinks back to that time.
+._Lara
+.:Why?
+..Liberius hands her the machinist book.
+._Liberius
+.:He was Romaran   
+..
+..
+..
+._
+..
+._
+._
+..
+..
+..
+..
+.. 
+..
+..
+..
+..
+..
